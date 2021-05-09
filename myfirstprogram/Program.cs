@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace estruturaDoPrograma
+namespace myfirstprogram
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
